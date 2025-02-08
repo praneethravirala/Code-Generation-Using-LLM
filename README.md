@@ -74,3 +74,8 @@ pip install scikit-learn
 
 #### Evaluate  
 - Use the testing scripts in the respective notebooks to compare predicted SQL queries with ground truth. Metrics like BLEU, ROUGE, and Fuzz Ratio will be calculated automatically.
+
+## **Contributors**  
+- Praneeth Ravirala
+- Mukesh Rajmohan
+- Utkarsh Jayesh Desai
